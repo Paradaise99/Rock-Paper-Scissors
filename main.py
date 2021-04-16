@@ -1,4 +1,4 @@
-import random from randint 
+from random import randint 
 
 game = ['Rock', 'Paper', 'Scissors']
 
